@@ -6,7 +6,7 @@
 <input type="password" maxlength="15" size="25" value name="pw">
 <br>
 <br>
-<input type="button" value name="accedi">   Accedi</input>
+<input type="button" value name="accedi">   Accedi
 <br>
 <p>Non hai ancora un account?</p>
 <a href="2_Login.html">Registrati</a><br>
