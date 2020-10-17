@@ -1,5 +1,5 @@
 <h1>Forum dubbi matematica</h1>
-<a href="2_Login.html">Registrati</a><br>
+<a href="Code.html">Qua puoi Vedere il sito Completo</a><br>
 <h2>Il dubbio verrà risolto nella prossima lezione</h2>
 <p>Puoi vedere la data sul calendario:</p>
 <table border="1">
