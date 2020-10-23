@@ -1,7 +1,7 @@
-<h1>Forum dubbi matematica</h1>
-<a href="Code.html">Qua puoi Vedere il sito Completo</a><br>
-<h2>Il dubbio verrà risolto nella prossima lezione</h2>
-<p>Puoi vedere la data sul calendario:</p>
+<h1>Ciao questo è un sito di Matematica, è stato frutto di un idea tra un professore e due suoi alunni</h1>
+<h2>Questi due alunni si chiamano Puzzo Fabio e Federico dutto</h2>
+<a href="Presentazione.html">Qui puoi trovare una piccola presentazione</a>
+<p>Ecco le ore di lezione:</p>
 <table border="1">
 <thead>
 <tr>
@@ -62,4 +62,5 @@
 <td>Matematica</td>
 </tr>
 </table>
-<h4>*l'orario può subire variazioni</h4>
+<h4>*Ricordiamo a tutti che le ore di lezione possono variare e che i dubbi saranno guardati durante esse</h4>
+<h4>Ringraziamo per la collaborazione </h4>
