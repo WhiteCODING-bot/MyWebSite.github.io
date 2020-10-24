@@ -1,5 +1,5 @@
 <h1>Ciao</h1>
-<h2>Questo è un sito di Matematica, è stato frutto di un idea tra un professore e due suoi alunni</h1>
+<h2>Questo è un sito di Matematica, è stato frutto di un idea tra un professore e due suoi alunni</h2>
 <h3>Questi due alunni si chiamano Puzzo Fabio e Dutto Federico</h3>
 <br>
 <br>
