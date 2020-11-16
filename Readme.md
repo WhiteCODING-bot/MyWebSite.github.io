@@ -3,7 +3,7 @@
 <h3>Questi due alunni si chiamano Puzzo Fabio e Dutto Federico</h3>
 <br>
 <br>
-<a href="Code.html">Qua puoi trovare il sito completo</a>
+<a href="Inizio.html">Qua puoi trovare il sito completo</a>
 <br>
 <br>
 <a href="Presentazione.html">Qui puoi trovare una piccola presentazione</a>
